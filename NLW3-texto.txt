@@ -1,0 +1,44 @@
+NEEXT LEVEL WEEK 3 DA ROCKETSEAT..
+
+APLICAÇÃO HAPPY:
+
+PROGRAMAÇÃO WEB
+
+o que é programar?
+ENSINAR AO COMPUTADOR A FAZER ALGO
+*ALGORITMO:
+    -PASSO A PASSO;
+    -CONJUNTO DE REGRAS.
+
+*LOGICA DE PROGRAMAÇÃO:
+    -MANEIRA DE PENSAR;
+    -
+
+*SINTAXE
+    -MANEIRA CORRETA DE ESCREVER O CODIGO;
+    -
+
+==
+
+*LINGUAGEM DE PROGRAMAÇÃO:
+    -JAVASCRIPT porq ele sempre está na parte web
+
+
+*FRONT-END E BACK-END:
+    -CLIENTE;
+    -ERVIDOR ESCUTA E RESPONDE.
+
+*COMO QUE FUNCIONA A COMUNICAÇÃO?
+    -HTTPS(HyperText Transfer Protocol)
+    -URL(Universal Resource Location)
+    -UMA TROCA DE DADOS
+
+
+*TECNOLOGIAS FRONT-END:
+    -HTML
+    -CSS
+    -JS
+
+*BACK-END:
+
+    

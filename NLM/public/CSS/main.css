@@ -1,0 +1,18 @@
+/*O QUE É UMA REGRA CSS?
+o !important consegue subescrever tudo*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    color: white;
+}
+:root {
+    font-size:62.5% ;
+}
+body, input, button, textarea {
+    font: 100 1.8rem/1 'Nunito', sans-serif;
+}
